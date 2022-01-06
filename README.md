@@ -1,10 +1,21 @@
 # Green Team - Energy Dahsboard
 
-#### Overview
+## Overview
 
 ## Dashboard Sections
 
+### Energy Summary
+- Residential Average Monthly 
+- Saving
+- Peak Demand
+- Programs Expenditures
+- Weatherization Assistance program
+### Green Development 
+
 ## Deliverable and Timeline
 
+## Resources
 
-random text
+### Data Source
+### Databases 
+### Library and packages

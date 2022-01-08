@@ -1,4 +1,4 @@
-# Green Team - Energy Dahsboard
+# Green Team - Energy Dashboard
 
 ## Overview
 #### Proposal Requirements -

@@ -66,7 +66,7 @@ This is the main screen of the project. It will display a reference from the ERC
 
 ### Navigation bar
 
-Slide pop-up on the right side of the dashboard. This pop-up will provide easy access to the mnain section of the dashboard and the subdivision. 
+Slide pop-up on the right side of the dashboard. This pop-up will provide easy access to the main section of the dashboard and the subdivision. 
 Additional it will display the current day and time. 
 
 ### V1 Energy Summary

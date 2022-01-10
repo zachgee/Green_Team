@@ -2,9 +2,9 @@
 
 ## Overview / Topic
 
-Energy distribution and forecast have become a major topic during the last year in the state of Texas. The last polar vortex in February of 2021 caused an unxpected impact on the city and raised the question about how prepared is Texas for similar events in the future. 
-Texas consumes and produces more electricity than any other state; in fact, it is the only state that runs a stand-alone independent electricity grid. So why did we had a such terrible experience with electricity last year? Before jumping to any conclusions, it is important to understand and analyze Texas power grid in order to answer these kind of questions: what is the regular consumer demand? How has it increased over the last years? What are the green alternatives in the capital?
-The purpose of this project is to answer those questions by analyzing the energy data for the city of Austin. We will provide a web-based dashboard with data visualization object to extract, transform and display the historic raw data accumulated by Austin Energy and the local governmnet in Austin.   
+After the devastating winter freeze last year, Texas' energy use & distribution was put under a microscope. Texas produces and consumes more electricity than any other state; in fact, it's the only state that runs a stand-alone independent electricity grid. Therefore, Texans demanded to know why the power grid suddenly failed us in such a dire time & what is being done to prevent future tragedies.
+
+To determine what can be changed regarding our energy structure, we've compiled some data sets from the City of Austin. While analyzing this subset of the Texas power grid, we're hoping to answer: what is the current consumer demand & has it increased over the last few years? What energy sources are we using? What are green alternatives in the capital and how are those being developed and/or utilized?  
 
 
 ##Proposal Requirements -

@@ -28,12 +28,12 @@ Additionally we will use plotly for chart and visualization tools. The final rel
 ### Deliverable 1 
 
 Topics complete: 
-    - Project scope
-    - Home and Navigation
-    - Database connection ready including all tables 
-    - Layout for Energy Summary and Green Development
+- Project scope : Official document with a full description about the project content.
+- Home and Navigation : Layout of the Home screen including background images and animation. Navigation should display the two main section and the additional subdivisions. Logic will be available from the github repo.
+- Database connection ready including all tables : All the tables (datasets) will be available from the Amazon cloud database. Multiple user credentials will be ready for all the team members. 
+- Layout for Energy Summary and Green Development : First overview of the screen include the object distribution and the election of charts for the dataset. 
 
-Date : January 23rd
+*Date : January 23rd*
 
 ### Deliverable 2 
 
@@ -41,7 +41,7 @@ Topics complete:
     - Energy Summary and all sections complete.
     - Green Development and all sections complete.
 
-Date : January 30th
+*Date : January 30th*
 
 ### Deliverable 3 
 
@@ -49,7 +49,7 @@ Topics complete:
     - Review and additional adjustments
     - Official deploy
 
-Date : February 2nd
+*Date : February 2nd*
 
 ## Dashboard Sections
 

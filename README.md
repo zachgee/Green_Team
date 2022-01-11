@@ -6,11 +6,6 @@ After the devastating winter freeze last year, Texas' energy use & distribution 
 
 To determine what can be changed regarding our energy structure, we've compiled some data sets from the City of Austin. While analyzing this subset of the Texas power grid, we're hoping to answer: what is the current consumer demand & has it increased over the last few years? What energy sources are we using? What are green alternatives in the capital and how are those being developed and/or utilized?  
 
-
-##Proposal Requirements -
-- Have ONE person create your repo, make a .md file with the following.
-- Pin the link to the repo to your groups channel.
-
 ## Tech Stack:
 
 ### Resources 
@@ -22,13 +17,11 @@ offical city of Austin open data portal: [data.austintexas.gov] (https://data.au
 The data will be centralize in a Amazon cloud service using a Postgre database. We decided use a relational database to analyze the connection between the datasets.
 
 ### Libraries / Packages
-The dashboard will be designed based on the open source framework [streamlit] (https://streamlit.io/) which is based in pythong. 
-Additionally we will use plotly for chart and visualization tools. 
+The dashboard will be designed based on the open source framework [streamlit] (https://streamlit.io/) which is based in python. 
+Additionally we will use plotly for chart and visualization tools. The final release/deploy will be using the streamlit library. 
 
 
 ## Deliverable(s) and timeframe
-- smaller actions/steps to be taken. Make sure these can be broken down into issues.
-- What the final  project will be (website, dashboard, analysis, etc).
 
 ## Successes metrics -
 

@@ -46,9 +46,9 @@ Topics complete:
 ### Deliverable 3 
 
 Topics complete: 
-    - Review and additional adjustments " Adjut animations or database connection for filter (issues/bug review).
-    - Official deployment using streamlit library. 
-    - Document with conclusion and result analysis from the Energy dataset. 
+- Review and additional adjustments " Adjut animations or database connection for filter (issues/bug review).
+- Official deployment using streamlit library. 
+- Document with conclusion and result analysis from the Energy dataset. 
 
 *Date : February 2nd*
 

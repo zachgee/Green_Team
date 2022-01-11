@@ -65,11 +65,10 @@ Additional it will display the current day and time.
 
 ### V1 Energy Summary
 
-- Residential Average Monthly 
-- Saving
-- Peak Demand
-- Programs Expenditures
-- Weatherization Assistance program
+- Customer class
+- Power Plants in Texas and Production Cost
+- Renewable Resources and Power supply
+- Residential Bill Average
 
 ### V2 Green Development 
 - Commercial 
@@ -77,4 +76,4 @@ Additional it will display the current day and time.
 - Single Family
 - Green Building projects
 - Electric Vehicles stations available.
-
+- Estimate emmission (historic records)

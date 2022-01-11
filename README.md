@@ -38,16 +38,17 @@ Topics complete:
 ### Deliverable 2 
 
 Topics complete: 
-    - Energy Summary and all sections complete.
-    - Green Development and all sections complete.
+- Energy Summary and all sections complete : Screens and database base connections will be fully functional including filter to refresh the views.  
+- Green Development and all sections complete : Screens and database base connections will be fully functional including filter to refresh the views.  
 
 *Date : January 30th*
 
 ### Deliverable 3 
 
 Topics complete: 
-    - Review and additional adjustments
-    - Official deploy
+    - Review and additional adjustments " Adjut animations or database connection for filter (issues/bug review).
+    - Official deployment using streamlit library. 
+    - Document with conclusion and result analysis from the Energy dataset. 
 
 *Date : February 2nd*
 

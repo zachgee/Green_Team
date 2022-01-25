@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('ENERGY GREEN DEVELOPMENT')
+#st.title('ENERGY GREEN DEVELOPMENT')
+st.markdown("<h1 style='text-align: center; color: green; font-size: 100px'>ENERGY GREEN DEVELOPMENT</h1>", unsafe_allow_html=True)
 
 pages = {
         "Overview":'green_development.py',
@@ -16,7 +17,7 @@ pages = {
 
 pages_list = list(pages)
 option = st.sidebar.radio("Select the additional views for Green Development:",pages_list)
-st.text(option)
+#st.text(option)
 
 fname_to_run = pages[option]
 if option != "Overview":

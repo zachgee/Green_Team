@@ -35,7 +35,7 @@ if option == 'Power Supply Cost':
         
     )
 
-if patter == 'Power Supply Cost':
+if pattern == 'Power Supply Cost':
     query = ('SELECT public."EO_PowerSupply_Cost"."Fuel_Type", public."EO_PowerSupply_Cost"."Fiscal_Year", public."EO_PowerSupply_Cost"."Fuel_Cost", public."EO_PowerSupply_Cost"."Fuel_Cost_Per"' +
         'FROM public."EO_PowerSupply_Cost"')
 

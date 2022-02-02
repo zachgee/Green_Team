@@ -15,10 +15,13 @@ import GT_Functions as gt_func
 
 ###################################
 #Database connection 
-query = ('SELECT public."EO_PowerSupply_Cost"."Fuel_Type", public."EO_PowerSupply_Cost"."Fiscal_Year", public."EO_PowerSupply_Cost"."Fuel_Cost", public."EO_PowerSupply_Cost"."Fuel_Cost_Per"' +
-        'FROM public."EO_PowerSupply_Cost"')
-df = gt_func.Execute_query(query)
+vSQL = 'Select * from public."EO_PowerSupply_Cost"'
+df = gt_func.Execute_query(vSQL)
 df.rename(columns={0: 'Fuel Type',1:'Fiscal Year',2:'Fuel Cost',3:'Fuel Cost Percentage'}, inplace=True)
+vSQL1='Select * from public."EO_Power_Plants"'
+df1 = gt_func.Execute_query(vSQL1)
+df1.rename(columns={0: 'PowerPlant',1:'Unit',2:'Fuel',3:'Summer Rated Capacity(MW)',4:'Year Installed'}, inplace=True)
+
 
 ####################################
 #Streamlit screen layout
@@ -37,3 +40,8 @@ pattern = st.selectbox(
 
 if pattern == 'Power Supply Cost':
         st.dataframe(df)
+        
+
+
+if pattern == 'Power Plants':
+        st.dataframe(df1)
